@@ -46,4 +46,10 @@ This project is a simple yet effective light monitoring system built using an **
 
 ---
 
+## 👨‍💻 Author
+
+**Rohith Manne**  
+[LinkedIn](https://www.linkedin.com/in/rohith-manne) • [GitHub](https://github.com/Rohith3333)
+
+⭐ Star this repository if you found it helpful!
 
